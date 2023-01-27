@@ -1,1 +1,1 @@
-### 백준 입력
+### BOJ standard input
